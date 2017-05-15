@@ -31,7 +31,7 @@ To import and run this project please follow next steps:
    "OOOOO"
 ]}
 ```
-8. If there is no existescape paths then it should return followin payload:
+8. If there is no exist escape paths then it should return followin payload:
 ```javascript
 {"errorMessage": "No escape paths exist!"}
 ```
