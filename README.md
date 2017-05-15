@@ -8,7 +8,7 @@ To import and run this project please follow next steps:
 3. Open the project in your favorite IDE (It is a gradle project, so it should be easy to import it).
 4. Run __LabyrinthWebserviceApplication.java__ class. It's a Spring Boot initialiser class.
 5. Open Postman, SoapUI or any other tool that is able to make REST requests to our local web service.
-6. Make a __POST__ request to __/labyrinth/escape__ with the following payload:
+6. Make a __POST__ request to __http://localhost:8080/labyrinth/escape__ with the following payload:
 ```javascript
 {
 	"startPoint":[2, 1],
